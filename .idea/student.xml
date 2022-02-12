@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<req>
+    <student>
+        <id>1</id>
+        <firstName>Sander</firstName>
+        <lastName>Green</lastName>
+        <gender>male</gender>
+        <age>21</age>
+        <married/>
+        <bloodType/>
+        <address>
+            <city>Helsinki</city>
+            <country>Finland</country>
+            <zip>11650</zip>
+    </address>
+    <hobby>
+        <item0>swimming</item0>
+        <item1>tennis</item1>
+        <item2>music</item2>
+    </hobby>
+    <parents>
+        <item0>
+            <status>father</status>
+            <firstName>Alex</firstName>
+            <lastName>Green</lastName>
+            <age>45</age>
+            <married>1</married>
+        </item0>
+        <item1>
+            <status>mother</status>
+            <firstName>Anna</firstName>
+            <lastName>Green</lastName>
+            <age>41</age>
+            <married>1</married>
+        </item1>
+    </parents>
+    </student>
+</req>
+
