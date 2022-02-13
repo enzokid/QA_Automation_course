@@ -1,0 +1,32 @@
+student:
+  id: 1
+  firstName: Sander
+  lastName: Green
+  gender: male
+  age: 21
+  married: false
+  bloodType: null
+  address:
+    city: Helsinki
+    country: Finland
+    "zip/postal": 11650
+  hobby:
+    -
+      swimming
+    -
+      tennis
+    -
+      music
+  parents:
+    -
+      status: father
+      firstName: Alex
+      lastName: Green
+      age: 45
+      married: true
+    -
+      status: mother
+      firstName: Anna
+      lastName: Green
+      age: 41
+      married: true
